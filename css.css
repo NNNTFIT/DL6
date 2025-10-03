@@ -88,7 +88,7 @@ p{
     justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
-    width: 1200px;
+    width: 100%px;
 }
 .slide2 .item{
     width: 380px;
@@ -113,7 +113,7 @@ p{
     flex-wrap: nowrap;
     gap: 30px;
     height: 300px;
-    width: 1200px;
+    width: 100%px;
 }
 .slide3 .item{
     width: 216px;
@@ -136,7 +136,7 @@ p{
     flex-wrap: nowrap;
     gap: 30px;
     height: 300px;
-    width: 1200px;
+    width: 100%px;
 }
 .slide4 .item{
     width: 277.5px;
@@ -154,7 +154,4 @@ p{
     align-items: center;
     height: 72px;
     background-color: rgba(241, 241, 241, 1);
-}
-.footer{
-
 }
