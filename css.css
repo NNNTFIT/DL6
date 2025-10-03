@@ -82,12 +82,12 @@ p{
     background-color: rgba(226, 226, 226, 1);
 }
 .slide2 .box{
-    margin-top: 40px;
+    margin: 40px auto 0 auto;
     display: flex;
     justify-content: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 30px;
-    width: 100%;
+    width: 1200px;
 }
 .slide2 .item{
     width: 380px;
